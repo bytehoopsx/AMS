@@ -85,10 +85,11 @@ ul li, ol li{
     width: 100%;
     height: 35px;
     background: var(--cor-footer);
-    position: absolute;
+    position: fixed;
     bottom: 0;
     display: block;
     clear: both;
+    text-align: center;
  }
 
  /*configurações das paginas da pastas pages*/
